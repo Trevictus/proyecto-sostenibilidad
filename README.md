@@ -11,3 +11,7 @@
 - Jose
 - Maria del Mar
 - Victor
+
+## Enlaces de interés:
+- https://www.hostinger.es/blog/reduce-el-consumo-de-energia-de-tu-sitio-web
+- https://www.techtarget.com/searchsoftwarequality/tip/Green-coding-best-practices-and-how-to-get-started

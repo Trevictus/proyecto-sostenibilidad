@@ -17,3 +17,6 @@
 - https://www.hostinger.es/blog/reduce-el-consumo-de-energia-de-tu-sitio-web
 - https://www.techtarget.com/searchsoftwarequality/tip/Green-coding-best-practices-and-how-to-get-started
 - https://medium.com/@joanna.esther.peel/how-to-design-low-carbon-websites-e188737b0b44
+- https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/
+- http://www.ecometer.org
+- https://www.ecoindex.fr/

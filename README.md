@@ -9,7 +9,7 @@
 
 ## Integrantes del equipo:
 - David
-- Jose
+- José Antonio
 - Maria del Mar
 - Victor
 

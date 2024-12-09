@@ -14,8 +14,8 @@ Primero, hay que instalar un servidor web como Apache en la Raspberry Pi.
 Utilizamos Let's Encrypt para obtener certificados SSL gratuitos. Configuramos SSL/TLS, ya que HTTP/2 requiere una conexión segura. 
 
 ### Configuración de HTTP/2 para Apache:
-sudo a2enmod http2
-sudo systemctl restart apache2
+- sudo a2enmod http2
+- sudo systemctl restart apache2
 
 Luego, habilitar HTTP/2 en la configuración de tu sitio.
 

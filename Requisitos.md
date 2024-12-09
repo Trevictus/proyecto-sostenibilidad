@@ -1,15 +1,17 @@
 ## Raspberry Pi
-- Cualquier modelo puede valer aunque cada modelo tiene unas características diferentes.
+- Cualquier modelo puede valer aunque cada modelo tiene unas características diferentes:
   - Consumo de Raspberry Pi Zero: entre 100mA y 150mA.
   - Pi 4: entre 600mA hasta 1A.
 - Necesitará una fuente de alimentación ecológica, en este caso utilizaremos un panel solar.
 - Se puede conectar a una batería recargable para que pueda operar sin necesidad de panel solar.
-- Para el SO hay varias opciones, aunque pensamos que la más correcta por su bajo consumo sería una sin GUI
+- Para el SO hay varias opciones, aunque pensamos que la más correcta por su bajo consumo sería una sin GUI:
   - Raspberry Pi OS: Más pesado que los otros dos al incluir, entre otras, una GUI.
   - RaspBian Lite: Versión ligera y sin GUI de la Raspberry PI OS. Suele usarse para servidores. Impacto mínimo en recursos.
   - DietPi: Optimizado especificamente para dispositivos de bajo consumo, sin GUI por defecto. Más pequeño que Raspbian Lite
 - Opciones a tener en cuenta para reducir aún mas el consumo de de energía de la Raspberry Pi:
-  - Deshabilitar HDMI, puertos USB que no se usen o LEDS.
+  - Deshabilitar HDMI,
+  - Puertos USB que no se usen.
+  - LEDS.
 
 ## HTTP/2 para el servidor.
 - HTTP/2 es una versión más eficiente de HTTP que permite la multiplexación de múltiples solicitudes sobre una sola conexión TCP, 
@@ -28,3 +30,14 @@ Utilizamos Let's Encrypt para obtener certificados SSL gratuitos. Configuramos S
 Luego, habilitar HTTP/2 en la configuración de tu sitio.
 
 Verificamos que HTTP/2 está funcionando utilizando herramientas como curl con el parámetro --http2, o verificando en el navegador con herramientas de desarrollo.
+
+## Sobre la página web.
+- La temática de la página web será sobre la Agenda 2030, promoviendo los objetivos de desarrollo sostenible.
+- Siguirá los principios del Greencoding.
+- El diseño y el código estarán optimizados para un bajo consumo energético:
+  - Sin dependencias innecesarias ni frameworks pesados.
+  - Se priorizará el uso de HTML y CSS simples, con JavaScript mínimo.
+- Utilizará colores oscuros.
+- Las imágenes utilizadas estarán comprimidas el máximo posible utilizando webs como tinypng.
+- Se intará implementar técnicas de carga eficiente tales como lazy loading para imágenes u otros.
+- El objetivo será diseñarla para tener el menor impacto de huella de carbono digital posible.

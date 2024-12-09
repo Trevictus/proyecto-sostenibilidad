@@ -22,3 +22,4 @@
 - https://www.ecoindex.fr/
 - https://httpd.apache.org/docs/current/howto/http2.html?form=MG0AV3
 - https://letsencrypt.org/es/getting-started/
+- https://raspberrytips.es/como-alimentar-raspberry-pi/?form=MG0AV3

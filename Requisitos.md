@@ -1,3 +1,7 @@
+## Raspberry Pi
+- Cualquier modelo puedde valer.
+- Necesitará una fuente de alimentación, (panel solar de 5V).
+- Se puede conectar a una batería recargable para que opere sin necesidad de panel solar.
 
 ## HTTP/2 para el servidor.
 - HTTP/2 es una versión más eficiente de HTTP que permite la multiplexación de múltiples solicitudes sobre una sola conexión TCP, 

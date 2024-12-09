@@ -1,7 +1,15 @@
 ## Raspberry Pi
 - Cualquier modelo puede valer aunque cada modelo tiene unas características diferentes.
+  - Consumo de Raspberry Pi Zero: entre 100mA y 150mA.
+  - Pi 4: entre 600mA hasta 1A.
 - Necesitará una fuente de alimentación ecológica, en este caso utilizaremos un panel solar.
-- Se puede conectar a una batería recargable para que opere sin necesidad de panel solar.
+- Se puede conectar a una batería recargable para que pueda operar sin necesidad de panel solar.
+- Para el SO hay varias opciones, aunque pensamos que la más correcta por su bajo consumo sería una sin GUI
+  - Raspberry Pi OS: Más pesado que los otros dos al incluir, entre otras, una GUI.
+  - RaspBian Lite: Versión ligera y sin GUI de la Raspberry PI OS. Suele usarse para servidores. Impacto mínimo en recursos.
+  - DietPi: Optimizado especificamente para dispositivos de bajo consumo, sin GUI por defecto. Más pequeño que Raspbian Lite
+- Opciones a tener en cuenta para reducir aún mas el consumo de de energía de la Raspberry Pi:
+  - Deshabilitar HDMI, puertos USB que no se usen o LEDS.
 
 ## HTTP/2 para el servidor.
 - HTTP/2 es una versión más eficiente de HTTP que permite la multiplexación de múltiples solicitudes sobre una sola conexión TCP, 

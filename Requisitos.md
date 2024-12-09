@@ -1,6 +1,6 @@
 ## Raspberry Pi
-- Cualquier modelo puedde valer.
-- Necesitará una fuente de alimentación, (panel solar de 5V).
+- Cualquier modelo puede valer aunque cada modelo tiene unas características diferentes.
+- Necesitará una fuente de alimentación ecológica, en este caso utilizaremos un panel solar.
 - Se puede conectar a una batería recargable para que opere sin necesidad de panel solar.
 
 ## HTTP/2 para el servidor.

@@ -20,3 +20,5 @@
 - https://www.smashingmagazine.com/2021/04/humble-img-element-core-web-vitals/
 - http://www.ecometer.org
 - https://www.ecoindex.fr/
+- https://httpd.apache.org/docs/current/howto/http2.html?form=MG0AV3
+- https://letsencrypt.org/es/getting-started/

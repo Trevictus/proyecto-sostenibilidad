@@ -10,8 +10,7 @@
 ## Integrantes del equipo:
 - David
 - José Antonio
-- Maria del Mar
-- Victor
+- Víctor
 
 ## Enlaces de interés:
 - https://www.hostinger.es/blog/reduce-el-consumo-de-energia-de-tu-sitio-web

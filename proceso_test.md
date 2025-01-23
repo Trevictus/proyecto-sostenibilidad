@@ -15,3 +15,9 @@
 2. Instalamos FileZilla en nuestro master.
 3. Hacemos uso de SFTP mediante IP + USER + PWD + PORT 22.
 4. Navegamos a directorio var www html y subimos fichero (si fallo de permisos: chown -R www-data:www-data /var/www/html + usermod -g www-data pi + chmod -R 770 /var/www)
+
+
+## Errores
+1. Reset de PWD:
+    sudo -i command and tap Enter.
+passwd -e username.

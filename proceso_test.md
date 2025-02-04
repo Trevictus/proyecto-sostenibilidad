@@ -16,8 +16,12 @@
 3. Hacemos uso de SFTP mediante IP + USER + PWD + PORT 22.
 4. Navegamos a directorio var www html y subimos fichero (si fallo de permisos: chown -R www-data:www-data /var/www/html + usermod -g www-data pi + chmod -R 770 /var/www)
 
+## Maybe sin FTP para menos consumo y automatización
+
+1. Utilizar git en la raspberry
+2. Crear script bash que automatice los pulls cuando se inicie la raspberry y cada x tiempo.
 
 ## Errores
-1. Reset de PWD:
-    sudo -i command and tap Enter.
-passwd -e username.
+1. Reset de PWD (por si cambiaron la pwd):
+    sudo -i command + Enter.
+    passwd -e username.

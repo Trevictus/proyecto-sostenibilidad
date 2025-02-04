@@ -1,7 +1,8 @@
 # Proyecto de creación de web sostenible - 1DAWB2425
 
-## Web del proyecto
+## Github con la web
 - https://github.com/david-benavides-dev/web-sostenibilidad
+- https://david-benavides-dev.github.io/web-sostenibilidad/
 
 ## Objetivos
 - Desarrollar un servidor web utilizando una Raspberry Pi.

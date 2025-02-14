@@ -10,14 +10,14 @@
 
 ### 1. Habilitar SSH en la Raspberry Pi (si aún no está habilitado)
 
-Para acceder de forma remota a tu Raspberry Pi, necesitas habilitar SSH. Sigue estos pasos:
+Para acceder de forma remota a la Raspberry Pi, necesitamos habilitar SSH:
 
 1. Ejecuta `sudo raspi-config`.
 2. Dirígete a "Advanced Options" > "SSH" y habilítalo.
 
 ### 2. Actualizar los paquetes del sistema
 
-Es importante mantener el sistema actualizado. Abre la terminal y ejecuta:
+Es importante mantener el sistema actualizado. Abrimos la terminal y ejecutamos:
 
 ```bash
 sudo apt-get update && sudo apt-get upgrade -y

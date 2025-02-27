@@ -1,11 +1,9 @@
-## Seguir usando PowerTop
-
 * vlc
 * cups
 * build-essentials
 
 
-
+Seguir usando PowerTop
 powertop
 sudo systemctl stop apt-daily.timer
 sudo systemctl disable apt-daily.timer
